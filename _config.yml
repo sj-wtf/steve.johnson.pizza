@@ -13,7 +13,7 @@ animated_fins:    true
 # Specify the fin color in RGB value
 fin_color:        "255,255,255"
 # Change url to your domain. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
+url:              http://steve.johnson.pizza
 # baseurl:
 
 # Gems used
@@ -45,7 +45,7 @@ author:
   picture:        me.jpg
   email:          steve@johnson.pizza
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    I'm Steve, and I like pizza and beer.  Former avid winter cyclist.
+  description:    I'm Steve, and I like pizza and beer.
   # Social networking links used in footer. Update and remove as you like.
   twitter:
   facebook:
