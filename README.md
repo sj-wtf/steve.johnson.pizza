@@ -1,4 +1,6 @@
-# HMFAYSAL OMEGA THEME
+## Personal blog
+
+This site uses the HMFaysal Omega theme.
 
 `jekyll serve` to test locally.
 
