@@ -1,12 +1,15 @@
 # HMFAYSAL OMEGA THEME
 
 `jekyll serve` to test locally.
-`jekyll build` to populate the _site directory.
 
-Ensure Ruby is installed
+`jekyll build` to populate the _"_site"_ directory.
+
+Ensure Ruby is installed, and install gems
 
 `gem install bundler`
+
 `bundler install`
+
 `s3_website cfg create`
 
 Fill in the s3_website.yml config file with your secrets
