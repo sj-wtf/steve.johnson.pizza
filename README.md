@@ -2,22 +2,16 @@
 
 This site uses the HMFaysal Omega theme.
 
-`jekyll serve` to test locally.
-
-`jekyll build` to populate the _"_site"_ directory.
-
 Ensure Ruby is installed, and install the required gems:
 
 `gem install bundler`
 
 `bundler install`
 
-Generate an S3 config file:
+There are a few things you can do:
 
-`s3_website cfg create`
-
-Fill in the s3_website.yml config file with your secrets
-
-`s3_website cfg apply` sets up the S3 bucket to host a static website.
-
-`s3_website push` pushes the website to S3
+* `jekyll serve` to test locally.
+* `jekyll build` to populate the _"_site"_ directory.
+* `s3_website cfg create` to generate an S3 config file skeleton
+* `s3_website cfg apply` sets up the S3 bucket to host a static website.
+* `s3_website push` pushes the website to S3
