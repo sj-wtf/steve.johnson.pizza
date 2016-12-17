@@ -4,11 +4,13 @@
 
 `jekyll build` to populate the _"_site"_ directory.
 
-Ensure Ruby is installed, and install gems
+Ensure Ruby is installed, and install the required gems:
 
 `gem install bundler`
 
 `bundler install`
+
+Generate an S3 config file:
 
 `s3_website cfg create`
 
