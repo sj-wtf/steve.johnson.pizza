@@ -14,4 +14,4 @@ There are a few things you can do:
 * `jekyll build` to populate the _"_site"_ directory.
 * `s3_website cfg create` to generate an S3 config file skeleton
 * `s3_website cfg apply` sets up the S3 bucket to host a static website.
-* `s3_website push` pushes the website to S3
+* `s3_website push` pushes the site you compiled earlier to S3
