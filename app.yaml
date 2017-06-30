@@ -1,7 +1,5 @@
 application: blog
-version: 09-18-2016
-runtime: python27
-api_version: 1
+version: 12-10-2016
 
 handlers:
 - url: /blog
